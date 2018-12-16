@@ -1,0 +1,6 @@
+#VAT calculators options include "MyVATCalculator" & "BDVATAdapter"
+
+
+
+vatcalculator.class.name= BDVATAdapter
+pricingStrategy.class.name = EidDiscount
